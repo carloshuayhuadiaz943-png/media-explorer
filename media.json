@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "titulo": "Imagen de prueba",
+    "titulo": "Imagen",
     "tipo": "image",
     "url": "https://picsum.photos/600/400"
   },
   {
     "id": 2,
-    "titulo": "Audio de prueba",
+    "titulo": "Audio",
     "tipo": "audio",
     "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   },
   {
     "id": 3,
-    "titulo": "Video de prueba",
+    "titulo": "Video",
     "tipo": "video",
     "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   }
